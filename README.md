@@ -19,6 +19,7 @@ The project validates both **Customer-facing flows** and **Admin workflows** usi
 ---
 
 ## 📁 Project Structure
+`````
 automationtesting_playwright_bnb_signit/
 ├─ tests/
 │ ├─ customer-flow.spec.js # Customer UI flow tests
@@ -28,6 +29,7 @@ automationtesting_playwright_bnb_signit/
 ├─ package.json # Project dependencies & scripts
 ├─ .gitignore # Ignored files/folders
 └─ README.md
+`````
 
 
 ## 🚀 Setup Instructions
